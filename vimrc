@@ -7,3 +7,5 @@ set expandtab
 
 set number
 
+colorscheme twilight
+
