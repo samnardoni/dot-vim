@@ -1,3 +1,7 @@
+" use pathogen
+call pathogen#infect()
+
+" not compatible with vi
 set nocompatible
 
 " tabs
@@ -17,9 +21,18 @@ syntax on
 " line numbers
 set number
 
+" font
+set guifont=Bitstream\ Vera\ Sans\ Mono:h12
+set linespace=2
+
+" set height
+set lines=40
+
 " theme
 colorscheme twilight
 
+" disable startup screen
+"set shortmess=at
 
 
 " clojure
