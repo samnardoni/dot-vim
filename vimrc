@@ -22,8 +22,8 @@ syntax on
 set number
 
 " font
-set guifont=Bitstream\ Vera\ Sans\ Mono:h12
-set linespace=2
+set guifont=Menlo:h12
+set linespace=3
 
 " set height
 set lines=40
